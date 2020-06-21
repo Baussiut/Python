@@ -1,8 +1,6 @@
 # ![center](logo.png)
 
-> A example project for learning Python 3, unittest, docstring and Tkinter.
-
-This is the world famous desktop app for counting words and characters in a string.
+> Recherche de mot de passe dans une liste
 
 
 ## Unit test
@@ -15,7 +13,7 @@ $ python3 -m unittest
 ## How to ?
 
 ```bash
-$ python3 wordscounter.py
+$ python3 app.py
 ```
 
 ## Purpose
